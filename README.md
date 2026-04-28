@@ -127,6 +127,8 @@ jupyter notebook
 This project demonstrates how machine learning can be used to predict medical insurance costs effectively. The analysis highlights that lifestyle factors, especially smoking, play a crucial role in determining healthcare expenses. The Random Forest model provided the best performance by capturing non-linear relationships in the dataset.
 
 ---
+## Link For Live App 
+   https://shoaib-akhtar-medical-insurance.streamlit.app/
 
 ## 💼 Author
 
